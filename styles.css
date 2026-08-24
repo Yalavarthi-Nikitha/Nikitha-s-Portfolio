@@ -10,16 +10,18 @@
 
 /* Personal photo block */
 .hero-photo {
-  width: 100%;
+  width: 240px;
+  height: 300px;
   border-radius: 24px;
   overflow: hidden;
   background: #f3f3ee;
+  margin: 0 auto;
 }
 
 .hero-photo img {
   display: block;
   width: 100%;
-  height: 320px;
+  height: 100%;
   object-fit: cover;
   object-position: center;
 }
