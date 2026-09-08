@@ -4,4 +4,4 @@ My personal portfolio website showcasing my projects, skills, experience, and ba
 
 Built with HTML, CSS, and JavaScript.
 
-🌐 **Portfolio:** [View Website](https://yalavarthi-nikitha.github.io/Portfolio_Nikitha/)
+🌐 **Portfolio:** [View Website](https://yalavarthi-nikitha.github.io/Nikitha-s-Portfolio/)
